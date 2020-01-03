@@ -3,7 +3,7 @@ The following are simplified steps that help in creating the a training course o
 1) 
      
      a)For theoretical concepts :
-Always choose a topic in which you have enough experience  or verifiablly knowledgabled enough to build atleast a review paper and start with literature review
+Always choose a topic in which you have enough experience  or knowledgeable enough to conduct a literature search write a review paper.
   
     b)For a course on a product (which may include physical device/ or a virtual software):
       - First explore the product end to end and make yourself familar with it referring to product manuals and protocols.
